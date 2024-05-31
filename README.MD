@@ -41,7 +41,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - [Leonardo.AI](https://app.leonardo.ai/)
 
-- [Tt marker](https://soundcloud.com/marcely-lobato-51083479/podcast-ttsmaker-file-marcely?si=460d88de07e74234acde69af0b093340&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+- [Ouça o áudio em -Tt marker](https://soundcloud.com/marcely-lobato-51083479/podcast-ttsmaker-file-marcely?si=460d88de07e74234acde69af0b093340&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 - [Capcut](https://www.capcut.com/)
 
